@@ -1,0 +1,4 @@
+name: GachaStat
+version: '${project.version}'
+main: org.joon.gachastat.GachaStat
+api-version: '1.20'
